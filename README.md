@@ -4,7 +4,7 @@ AI Agent Orchestrator and Harness Engineer. I design the governance, enforcement
 
 **Featured Projects**
 
-- [SST3-AI-Framework](https://github.com/hoiung/SST3-AI-Framework) (2025–2026). Production agent harness: 5-stage delivery lifecycle, 3-tier automated review (Ralph), 14 pre-commit enforcement hooks, 23 automation scripts
+- [SST3-AI-Harness](https://github.com/hoiung/SST3-AI-Harness) (2025–2026). Production agent harness: 5-stage delivery lifecycle, 3-tier automated review (Ralph), 14 pre-commit enforcement hooks, 23 automation scripts
 - auto_pb_swing_trader (2025–2026). Automated pullback swing trading system: 10,000+ commits, 11,100+ tests, 8 live strategies, Rust data service, PostgreSQL, React dashboard
 - tradebook_GAS (2025–2026). Google Sheets trading journal with Apps Script automation and Python sync pipeline
 
