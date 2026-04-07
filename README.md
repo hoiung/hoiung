@@ -1,18 +1,18 @@
 ### Hi, I'm Hoi
 
-AI Agent Orchestrator. I direct multiple Claude agents in parallel to ship production systems, and I built the harness that governs them.
+AI Agent Orchestrator. I direct multiple Claude agents in parallel to ship production systems, and I built the harness/framework that governs them.
 
-Passionate about technology since the age of 7 (you can do the maths). 20+ years across IT infrastructure, projects, and entrepreneurship. Now I spend every day directing 3-5 concurrent LLM agents and the methodology I built around it.
+Passionate about technology since the age of 7. 20+ years across IT infrastructure, projects, and entrepreneurship. Now I spend every day directing 3-5 concurrent LLM agents and the methodology I built around it.
 
 **The work**
 
-In 9 months at 12-15 hours a day, I shipped a fully automated swing trading system. Real money, real broker, real failure modes. 10,000+ commits, 1,860+ issues and pull requests at 99.4% close rate, 11,100+ tests across 3 repos. Python, Rust, React, PostgreSQL, Redis, systemd, all the bits.
+In 9 months at 12-15 hours a day, I shipped a fully automated swing trading system. Real money, real broker, real failure modes. 10,000+ commits, 1,860+ issues and pull requests at 99.4% close rate, 11,100+ eval cases across 3 repos. Python, Rust, React, PostgreSQL, Redis, systemd, all the bits.
 
 The interesting part isn't the hours. It's that I built a methodology around it. I called it SST3.
 
-Most frameworks orchestrate agents. SST3 also governs them.
+Most harnesses orchestrate agents. SST3 also governs them.
 
-I built SST3 from first principles, before I'd ever heard of LangChain or CrewAI. 3 generations, stage-gated, evidence-enforced. Three AI models reviewing each other at increasing depth (Haiku → Sonnet → Opus). 14 pre-commit hooks across 3 repos that block false completions, drift, and accidental regressions at commit time. Engineering standards derived from real production failures, not theory.
+I built SST3 from first principles, before I'd ever heard of LangChain or CrewAI. A multi-agent orchestration harness/framework: 3 generations, stage-gated, evidence-enforced. Three AI models reviewing each other at increasing depth (Haiku → Sonnet → Opus). 14 pre-commit hooks across 3 repos that block false completions, drift, and accidental regressions at commit time. Engineering standards derived from real production failures, not theory.
 
 **Featured**
 
@@ -28,6 +28,8 @@ Co-founded an international Brazilian Zouk dance school with my partner Domi. Te
 
 Before Canonical: data centre engineer at SunGard with SC+ clearance for MET Police clients. Before that: serial entrepreneur (LED import/export, design and print, took a near-bankrupt family takeaway profitable in 4 years and exited).
 
+I work effectively alone, in a team, leading a team, or running a business.
+
 **Tech I actually use**
 
 Python, Rust, JavaScript/React, TypeScript, Google Apps Script, PostgreSQL, Redis, Docker, Claude Code, MCP servers, Git, GitHub Actions, pre-commit, systemd, WSL2.
@@ -36,7 +38,7 @@ Python, Rust, JavaScript/React, TypeScript, Google Apps Script, PostgreSQL, Redi
 
 The trading platform is done. It runs. It compounds. There's nothing more to build there for now.
 
-What I want next is to take the methodology into new expert domains. Finance, marketing, sales, operations, accounting, product. Every department needs its own AI harness. That's the interesting problem.
+What I want next is to take the methodology into new expert domains. Finance, marketing, sales, operations, accounting, product. Every department needs its own AI harness/framework. That's the interesting problem.
 
 If you're hiring an AI Agent Orchestrator, AI Delivery Lead, or Principal PM (AI), get in touch.
 
