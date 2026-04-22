@@ -6,7 +6,7 @@ Passionate about technology since the age of 7. 20+ years across IT infrastructu
 
 **The work**
 
-In 9 months at 12-15 hours a day, I shipped a fully automated swing trading system. Real money, real broker, real failure modes. 10,000+ commits, 1,860+ issues and pull requests at 99.4% close rate, 11,100+ eval cases across 3 repos. Python, Rust, React, PostgreSQL, Redis, systemd, all the bits.
+In 9 months at 12-15 hours a day, 7 days a week, I shipped a fully automated swing trading system. Real money, real broker, real failure modes. 10,000+ commits, 1,860+ issues and pull requests at 99.4% close rate, 11,100+ eval cases across 3 repos. Python, Rust, React, PostgreSQL, Redis, systemd, all the bits.
 
 The interesting part isn't the hours. It's that I built a methodology around it. I called it SST3. Short for **Single Source of Truth v3**.
 
