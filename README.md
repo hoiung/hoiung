@@ -26,7 +26,7 @@ I built SST3 from first principles, before I'd ever heard of LangChain or CrewAI
 
 Co-founded an international Brazilian Zouk dance school with my partner Domi. Team of 15 across multiple countries, 20+ international events, 35% revenue growth, 25% enrollment growth. Did this for ~7 years alongside the day job because I wanted to.
 
-Before Canonical: data centre engineer at SunGard with SC+ clearance for MET Police clients. Before that: serial entrepreneur (LED import/export, design and print, took a near-bankrupt family takeaway profitable in 4 years and exited).
+Before Canonical: Systems Administrator at SunGard with SC+ clearance for MET Police clients. Before that: serial entrepreneur (LED import/export, design and print, took a near-bankrupt family takeaway profitable in 4 years and exited).
 
 I work effectively alone, in a team, leading a team, or running a business.
 
