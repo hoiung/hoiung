@@ -24,7 +24,7 @@ I built SST3 from first principles, before I'd ever heard of LangChain or CrewAI
 
 8 years at Canonical (Ubuntu) running global data centre projects. $1.25M/year in cost savings across the role. Negotiated per-kW rates from $599 down to $285 on one contract alone. 8 internal awards. The Director of IS once described me as a "one man band" running the data centres on my own, and I own that phrase.
 
-Co-founded an international Brazilian Zouk dance school with my partner Domi. Team of 15 across multiple countries, 20+ international events, 35% revenue growth, 25% enrollment growth. Did this for 6 years alongside the day job because I wanted to.
+Co-founded an international Brazilian Zouk dance school with my partner Domi. Team of 15 across multiple countries, 20+ international events, 35% revenue growth, 25% enrollment growth. Did this for ~7 years alongside the day job because I wanted to.
 
 Before Canonical: data centre engineer at SunGard with SC+ clearance for MET Police clients. Before that: serial entrepreneur (LED import/export, design and print, took a near-bankrupt family takeaway profitable in 4 years and exited).
 
