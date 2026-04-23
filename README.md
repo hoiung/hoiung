@@ -12,7 +12,7 @@ Four production proof points across four different domains, built on the same ha
 - **SST3-AI-Harness** is the multi-agent orchestration harness/framework I built from first principles before I'd heard of LangChain or CrewAI. 3 generations, stage-gated, evidence-enforced. Three AI models reviewing each other at increasing depth (Haiku surface, Sonnet logic, Opus architecture). 14 pre-commit hooks blocking false completions, drift, and accidental regressions at commit time. Engineering standards derived from real production failures, not theory. **Designed so a non-technical domain expert can own the workflow the harness drives.**
 - **auto_pb_swing_trader** (2025-2026): production swing trader, real money, real broker, real failure modes. 10,000+ commits, 1,860+ issues and pull requests at 99.4% close rate, 11,100+ evals across 4 repos. 8 live strategies, 592 tickers, dual-instance Rust data service with leader election, fail-loud position authority, audit trail on every broker call.
 - **hoiboy.uk** (2026): live AI-assisted publishing platform. Different domain, same harness. Proof that the pattern travels.
-- **ebay-seller-tool MCP** (2026): harness designed for my eBay reseller business. Built so the reseller (a non-engineer) operates the tool daily without reading the code. The explicit non-technical-end-user proof point.
+- **ebay-seller-tool MCP** (2026): I run a small eBay reseller business on the side. Dogfooded MCP harness for that workflow: the reseller operates it daily without reading the code. I am both builder and end-user here, which is the tightest PM feedback loop I have. The external non-technical SME version of this pattern is the next step.
 
 **Featured**
 
@@ -23,7 +23,7 @@ Four production proof points across four different domains, built on the same ha
 
 **Before that**
 
-8 years at Canonical (Ubuntu) running global data centre projects. The daily work was translating infrastructure realities for non-engineering stakeholders. Coached Alex Micouleau from scratch in procurement (Alex is now IS Commercial Lead). Ran ICT-design workshops for Kevin Yeh and Nancy Chen. Handed sprint-event support over to the STS team in 6 months, first workshop to full autonomy. $1.25M/year in cost savings across the role, 8 internal awards.
+8 years at Canonical (Ubuntu) running global data centre projects. The daily work was translating infrastructure realities for non-engineering stakeholders. Trained and mentored Alex Micouleau from scratch in procurement (Alex is now IS Commercial Lead). Ran ICT-design workshops for Kevin Yeh and Nancy Chen. Handed sprint-event support over to the STS team in 6 months, first workshop to full autonomy. $1.25M/year in cost savings across the role, 8 internal awards.
 
 Co-founded an international Brazilian Zouk dance school with my partner Domi. Trained and coached 15 distributed dance instructors across multiple countries to deliver consistent methodology. 20+ international events, 35% revenue growth, 25% enrolment growth. Did this for ~7 years alongside the day job because I wanted to. Same capability-transfer pattern, different domain.
 
