@@ -7,10 +7,10 @@ AI Enablement Engineer. I help non-technical domain experts integrate AI into th
 
 **The work**
 
-Four production proof points across four different domains, built on the same harness:
+Four production proof points across four different domains, built on the same harness. The flagship is the trading system; the harness generalises everything else.
 
-- **SST3-AI-Harness** is the multi-agent orchestration harness/framework I built from first principles before I'd heard of LangChain or CrewAI. 3 generations, stage-gated, evidence-enforced. Three AI models reviewing each other at increasing depth (Haiku surface, Sonnet logic, Opus architecture). 14 pre-commit hooks blocking false completions, drift, and accidental regressions at commit time. Engineering standards derived from real production failures, not theory. **Designed so a non-technical domain expert can own the workflow the harness drives.**
-- **auto_pb_swing_trader** (2025-2026): production swing trader, real money, real broker, real failure modes. 10,000+ commits, 1,860+ issues and pull requests at 99.4% close rate, 11,100+ evals across 4 repos. 8 live strategies, 592 tickers, dual-instance Rust data service with leader election, fail-loud position authority, audit trail on every broker call.
+- **auto_pb_swing_trader** (2025-2026, flagship 0-to-1): production AI-assisted swing trader I shipped solo in 9 months end-to-end on Interactive Brokers' live broker API. Real money, real broker, real failure modes. 10,000+ commits across 4 repos at 99.4% issue close rate, 1,860+ issues, 11,100+ evals gating every deploy. 8 live strategies (TP33/TP50/TP100/TPS33/TPS50/MB100/MBS100/PX80), 592 tickers, dual-instance Rust data service with Redis leader election, Python controllers, React dashboard, fail-loud position authority, audit trail on every broker call. Unified Order Flow subsystem (36+ fixes, 211 tests) and Reconciliation engine (34 gaps, 40/40 repair tests, cancel-repair loop prevention, degraded-state handling). This is the engineering depth behind the enablement work.
+- **SST3-AI-Harness**: the multi-agent orchestration harness/framework behind all of it. Built from first principles before I'd heard of LangChain or CrewAI. 3 generations, stage-gated, evidence-enforced. Three AI models reviewing each other at increasing depth (Haiku surface, Sonnet logic, Opus architecture). 14 pre-commit hooks blocking false completions, drift, and accidental regressions at commit time. Engineering standards derived from real production failures, not theory. **Designed so a non-technical domain expert can own the workflow the harness drives.**
 - **hoiboy.uk** (2026): live AI-assisted publishing platform. Different domain, same harness. Proof that the pattern travels.
 - **ebay-seller-tool MCP** (2026): I run a small eBay reseller business on the side. Dogfooded MCP harness for that workflow: the reseller operates it daily without reading the code. I am both builder and end-user here, which is the tightest PM feedback loop I have. The external non-technical SME version of this pattern is the next step.
 
@@ -41,9 +41,9 @@ The trading platform runs. It compounds. I'm not trying to build a bigger one.
 
 What I want next is to take the harness pattern into non-technical domains where AI adoption is genuinely hard. Finance, legal, operations, healthcare, publishing, reseller workflows, SME businesses that don't have an engineering team of their own to lean on. Every department with a subject matter expert needs its own AI harness, shaped around their actual workflow. That's the interesting problem and that's the work I want to do.
 
-If you're hiring for an AI Enablement Engineer, AI Adoption Lead, AI Fluency Lead, vertical Forward Deployed Engineer, or vertical AI Solutions Architect, get in touch.
+If you're hiring for an AI Enablement Engineer, AI Adoption Lead, AI Fluency Lead, vertical Forward Deployed Engineer, vertical AI Solutions Architect, Staff or Principal AI Engineer IC (engineering-forward product companies where the end-user is a non-technical team), Applied AI Engineer IC, Algorithmic AI Engineer, or AI Harness Engineer, get in touch.
 
-Not looking for: Programme Manager, generic frontier-lab FDE, Head or Director of AI, MLOps or Platform Engineer, pure-coaching roles without engineering build surface.
+Not looking for: Programme Manager, Head or Director of AI, MLOps or Platform Engineer, frontier-lab FDE where the end-customer is another engineering team, pure-coaching roles without engineering build surface.
 
 <a href="https://www.linkedin.com/in/hoiung" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <!-- iamhoiend -->
