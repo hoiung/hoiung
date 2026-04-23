@@ -16,7 +16,7 @@ Four production proof points across four different domains, built on the same ha
 
 **Featured**
 
-- [SST3-AI-Harness](https://github.com/hoiung/SST3-AI-Harness): sanitised public extract of the methodology. The 5-stage workflow lifecycle, the Ralph 3-tier review, the 14 hooks, the 23 automation scripts. The thing itself, not a write-up about it.
+- [SST3-AI-Harness](https://github.com/hoiung/SST3-AI-Harness): sanitised public extract of the methodology. The 5-stage delivery lifecycle, the Ralph 3-tier review, the 14 hooks, the 23 automation scripts. The thing itself, not a write-up about it.
 - [hoiboy.uk](https://hoiboy.uk): live publishing platform. Second production system on SST3.
 - **auto_pb_swing_trader**: production swing trader. Private repo (the trade secret). Interface proof via hoiboy.uk blog posts only.
 - **tradebook_GAS** (2024-2025): the Google Sheets MVP that became auto_pb. 24 modules of Apps Script, FastAPI bridge, IBKR bracket orders. Every column in the sheet became a database column in production.
