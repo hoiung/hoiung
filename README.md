@@ -39,7 +39,7 @@ Python, Rust, JavaScript/React, TypeScript, Google Apps Script, PostgreSQL, Redi
 
 The trading platform runs. It compounds. I'm not trying to build a bigger one.
 
-What I want next is to take the harness pattern into non-technical domains where AI adoption is genuinely hard. Finance, legal, accounting, procurement, publishing, retail, customer support, events, coaching, SME businesses that don't have an engineering team of their own to lean on. Every department with a subject matter expert needs its own AI harness, shaped around their actual workflow. That's the interesting problem and that's the work I want to do.
+What I want next is to take the harness pattern into non-technical domains where AI adoption is genuinely hard. Finance, legal, accounting, procurement, publishing, retail, customer support, events, coaching, and any other industry that can benefit from AI. SME businesses especially, since they don't have an engineering team of their own to lean on. Every department with a subject matter expert needs its own AI harness, shaped around their actual workflow. That's the interesting problem and that's the work I want to do.
 
 If you're hiring for an AI Enablement Engineer, AI Adoption Lead, AI Fluency Lead, vertical Forward Deployed Engineer, vertical AI Solutions Architect, Staff or Principal AI Engineer IC (engineering-forward product companies where the end-user is a non-technical team), Applied AI Engineer IC, Algorithmic AI Engineer, or AI Harness Engineer, get in touch.
 
