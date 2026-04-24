@@ -25,7 +25,7 @@ Four production proof points across four different domains, built on the same ha
 
 8 years at Canonical (Ubuntu) running global data centre projects. The daily work was translating infrastructure realities for non-engineering stakeholders. Trained and mentored Alex Micouleau from scratch in procurement (Alex is now IS Commercial Lead). Ran ICT-design workshops for Kevin Yeh and Nancy Chen. Handed sprint-event support over to the STS team in 6 months, first workshop to full autonomy. $1.25M/year in cost savings across the role, 8 internal awards.
 
-Co-founded an international Brazilian Zouk dance school with my partner Domi. Trained and coached 15 distributed dance instructors across multiple countries to deliver consistent methodology. 20+ international events, 35% revenue growth, 25% enrolment growth. Did this for ~7 years alongside the day job because I wanted to. Same capability-transfer pattern, different domain.
+Co-founded an international Brazilian Zouk dance school with my partner Domi. Served as Programme Director formulating the event programmes. Trained and coached a 15-person distributed planning team across multiple countries; worked with international dance instructors as event partners. 20+ international events, 35% revenue growth, 25% enrolment growth. Did this for ~7 years alongside the day job because I wanted to. Same capability-transfer pattern, different domain.
 
 Before Canonical: System Administrator at SunGard with SC+ clearance for MET Police clients. Before that: serial entrepreneur (LED import/export, design and print, took a near-bankrupt family takeaway profitable in 4 years and exited).
 
