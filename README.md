@@ -23,7 +23,7 @@ Four production proof points across four different domains, built on the same ha
 
 **Before that**
 
-8 years at Canonical (Ubuntu) running global data centre projects. The daily work was translating infrastructure realities for non-engineering stakeholders. Knowledge transfer to Alex Micouleau on procurement (now IS Commercial Lead). Ran ICT-design workshops for Kevin Yeh and Nancy Chen. Handed sprint-event support over to the STS team in 6 months, first workshop to full autonomy. $1.25M/year in cost savings across the role, 8 internal awards.
+8 years at Canonical (Ubuntu) running global data centre projects. The daily work was translating infrastructure realities for non-engineering stakeholders. Knowledge transfer to Alex Micouleau on procurement (now IS Commercial Lead). Trained and mentored Michael Salois (Data Centre Engineer, US-based). Ran ICT-design workshops for Kevin Yeh and Nancy Chen (full autonomy in 6 months). Trained 5 junior STS support team members on IT/AV for large sprint events (full team autonomy in 1 year). $1.25M/year in cost savings across the role, 8 internal awards.
 
 Co-founded an international Brazilian Zouk dance school with my partner Domi. Served as Programme Director formulating the event programmes. Led, trained, and coached a 15-person distributed planning team across multiple countries; worked with international dance instructors as event partners. 20+ international events, 35% revenue growth, 25% enrolment growth. Did this for ~7 years alongside the day job because I wanted to. Same capability-transfer pattern, different domain.
 
