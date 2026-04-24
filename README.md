@@ -23,9 +23,9 @@ Four production proof points across four different domains, built on the same ha
 
 **Before that**
 
-8 years at Canonical (Ubuntu) running global data centre projects. The daily work was translating infrastructure realities for non-engineering stakeholders. Trained and mentored Alex Micouleau from scratch in procurement (Alex is now IS Commercial Lead). Ran ICT-design workshops for Kevin Yeh and Nancy Chen. Handed sprint-event support over to the STS team in 6 months, first workshop to full autonomy. $1.25M/year in cost savings across the role, 8 internal awards.
+8 years at Canonical (Ubuntu) running global data centre projects. The daily work was translating infrastructure realities for non-engineering stakeholders. Knowledge transfer to Alex Micouleau on procurement (now IS Commercial Lead). Ran ICT-design workshops for Kevin Yeh and Nancy Chen. Handed sprint-event support over to the STS team in 6 months, first workshop to full autonomy. $1.25M/year in cost savings across the role, 8 internal awards.
 
-Co-founded an international Brazilian Zouk dance school with my partner Domi. Served as Programme Director formulating the event programmes. Trained and coached a 15-person distributed planning team across multiple countries; worked with international dance instructors as event partners. 20+ international events, 35% revenue growth, 25% enrolment growth. Did this for ~7 years alongside the day job because I wanted to. Same capability-transfer pattern, different domain.
+Co-founded an international Brazilian Zouk dance school with my partner Domi. Served as Programme Director formulating the event programmes. Led, trained, and coached a 15-person distributed planning team across multiple countries; worked with international dance instructors as event partners. 20+ international events, 35% revenue growth, 25% enrolment growth. Did this for ~7 years alongside the day job because I wanted to. Same capability-transfer pattern, different domain.
 
 Before Canonical: System Administrator at SunGard with SC+ clearance for MET Police clients. Before that: serial entrepreneur (LED import/export, design and print, took a near-bankrupt family takeaway profitable in 4 years and exited).
 
@@ -39,7 +39,7 @@ Python, Rust, JavaScript/React, TypeScript, Google Apps Script, PostgreSQL, Redi
 
 The trading platform runs. It compounds. I'm not trying to build a bigger one.
 
-What I want next is to take the harness pattern into non-technical domains where AI adoption is genuinely hard. Finance, legal, operations, healthcare, publishing, reseller workflows, SME businesses that don't have an engineering team of their own to lean on. Every department with a subject matter expert needs its own AI harness, shaped around their actual workflow. That's the interesting problem and that's the work I want to do.
+What I want next is to take the harness pattern into non-technical domains where AI adoption is genuinely hard. Finance, legal, accounting, procurement, publishing, retail, customer support, events, coaching, SME businesses that don't have an engineering team of their own to lean on. Every department with a subject matter expert needs its own AI harness, shaped around their actual workflow. That's the interesting problem and that's the work I want to do.
 
 If you're hiring for an AI Enablement Engineer, AI Adoption Lead, AI Fluency Lead, vertical Forward Deployed Engineer, vertical AI Solutions Architect, Staff or Principal AI Engineer IC (engineering-forward product companies where the end-user is a non-technical team), Applied AI Engineer IC, Algorithmic AI Engineer, or AI Harness Engineer, get in touch.
 
