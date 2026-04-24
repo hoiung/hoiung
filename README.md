@@ -29,7 +29,7 @@ Co-founded an international Brazilian Zouk dance school with my partner Domi. Se
 
 Before Canonical: System Administrator at SunGard with SC+ clearance for MET Police clients. Before that: serial entrepreneur (LED import/export, design and print, took a near-bankrupt family takeaway profitable in 4 years and exited).
 
-I work effectively alone, alongside a domain team, or embedded with a subject matter expert who owns the problem. Peer and SME partnership, not direct-report management. Completed short-course training in Coaching & Mentoring and Python Programming (2025).
+I work effectively alone, alongside a domain team, or embedded with a subject matter expert who owns the problem. Peer and SME partnership, not direct-report management.
 
 **Tech I actually use**
 
