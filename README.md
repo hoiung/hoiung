@@ -5,7 +5,7 @@ AI Tinkerer. I design and ship production software zero to one (0-to-1): I make 
 
 **19,000+ commits across 20 repos · 1,700+ issues @ 97.8% close · 650+ PRs · 13,100+ evals gating every deploy · live broker API**
 
-20+ years IT for non-technical businesses, 8 years at Canonical translating infrastructure realities for non-engineering stakeholders, 3 years of AI-augmented build on top. Two sides of the same coin: I ship production systems solo, and I hand the pattern to non-experts so they can own and run it themselves.
+20+ years IT for non-technical businesses, 8 years at Canonical (Ubuntu Linux) translating infrastructure realities for non-engineering stakeholders, 3 years of AI-augmented build on top. Two sides of the same coin: I ship production systems solo, and I hand the pattern to non-experts so they can own and run it themselves.
 
 **The work**
 
@@ -26,11 +26,11 @@ Four production proof points across four different domains, built on the same ha
 
 **Before that**
 
-8 years at Canonical (Ubuntu) running global data centre projects. The daily work was translating infrastructure realities for non-engineering stakeholders. Handed over procurement to a colleague who now leads it commercially. Trained and mentored a US-based data centre engineer, ran ICT-design workshops for a Taipei team (full autonomy in 6 months), and trained 5 junior support engineers across the global team on IT/AV for large sprint events (full team autonomy in 1 year). $1.25M/year in cost savings across the role, 8 internal awards.
+8 years at Canonical (Ubuntu Linux) running global data centre projects. The daily work was translating infrastructure realities for non-engineering stakeholders. Handed over procurement to a colleague who now leads it commercially. Trained and mentored a US-based data centre engineer, ran ICT-design workshops for a Taipei team (full autonomy in 6 months), and trained 5 junior support engineers across the global team on IT/AV for large sprint events (full team autonomy in 1 year). $1.25M/year in cost savings across the role, 8 internal awards.
 
 Co-founded an international Brazilian Zouk dance school with my partner, and built the largest Brazilian Zouk community online while running its live events, and it's still the largest today. Served as Programme Director; led, trained, and coached a 15-person distributed planning team across multiple countries; worked with international dance instructors as event partners. 20+ international events, 35% revenue growth, 25% enrolment growth, over ~7 years alongside the day job. I'm now doing the same for [Asians & Gingers in Tech](https://hoiboy.uk/community/asians-gingers-in-tech/). Building and leading communities is the thread through everything I do.
 
-Before Canonical: System Administrator at SunGard with SC+ clearance for MET Police clients. Before that: serial entrepreneur (LED import/export, design and print, took a near-bankrupt family takeaway profitable in 4 years and exited).
+Before Canonical (Ubuntu Linux): System Administrator at SunGard with SC+ clearance for MET Police clients. Before that: serial entrepreneur (LED import/export, design and print, took a near-bankrupt family takeaway profitable in 4 years and exited).
 
 I work effectively alone, alongside a domain team, or embedded with a subject matter expert who owns the problem. Peer and SME partnership, not direct-report management.
 
