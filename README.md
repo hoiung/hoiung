@@ -1,7 +1,7 @@
 <!-- iamhoi -->
 ### Hi, I'm Hoi
 
-AI Tinkerer. I design and ship production software 0-to-1: I make the scope and technical calls, AI agents do the implementation. Through HOIBOY AI LTD I also build custom AI harnesses and agentic workflows for domain experts to own and operate.
+AI Tinkerer. I design and ship production software zero to one (0-to-1): I make the scope and technical calls, AI agents do the implementation. Through HOIBOY AI LTD I also build custom AI harnesses and agentic workflows for domain experts to own and operate.
 
 **19,000+ commits across 20 repos · 1,700+ issues @ 97.8% close · 650+ PRs · 13,100+ evals gating every deploy · live broker API**
 
@@ -11,14 +11,14 @@ AI Tinkerer. I design and ship production software 0-to-1: I make the scope and 
 
 Four production proof points across four different domains, built on the same harness. The flagship is the trading system; the harness generalises everything else.
 
-- **auto_pb_swing_trader** (2025-2026, flagship 0-to-1): production AI-assisted swing trader I shipped solo end-to-end on Interactive Brokers' live broker API (~8 months to 0-to-1, then forward-tested and tuned). Real money, real broker, real failure modes. 11,535 commits, 1,154 issues at 99.2% close, 407 PRs, 13,100+ evals gating every deploy. 8 live strategies, dual-instance Rust data service with Redis leader election, Python controllers, React dashboard, fail-loud position authority, and an audit trail on every broker call. The order-flow and reconciliation engines handle cancel-repair loop prevention and degraded-state recovery. Real engineering depth, not a demo.
-- **SST3-AI-Harness**: the multi-agent orchestration harness/framework behind all of it. Built from first principles before I'd heard of LangChain or CrewAI. 3 generations, stage-gated, evidence-enforced. Three AI models reviewing each other at increasing depth (Haiku surface, Sonnet logic, Opus architecture). 14 pre-commit hooks blocking false completions, drift, and accidental regressions at commit time. Engineering standards derived from real production failures, not theory. **Designed so a non-technical domain expert can own the workflow the harness drives.**
+- **auto_pb_swing_trader** (2025-2026, flagship zero to one (0-to-1)): production AI-assisted swing trader I shipped solo end-to-end on Interactive Brokers' live broker API (~8 months to zero to one (0-to-1), then forward-tested and tuned). Real money, real broker, real failure modes. 8 live strategies, dual-instance Rust data service with Redis leader election, Python controllers, React dashboard, fail-loud position authority, and an audit trail on every broker call. The order-flow and reconciliation engines handle cancel-repair loop prevention and degraded-state recovery. Real engineering depth, not a demo.
+- **SST3-AI-Harness**: the multi-agent orchestration harness/framework behind all of it. Built from first principles before I'd heard of LangChain or CrewAI. 3 generations, stage-gated, evidence-enforced. Three AI models reviewing each other at increasing depth (Haiku surface, Sonnet logic, Opus architecture). Pre-commit hooks blocking false completions, drift, and accidental regressions at commit time. Engineering standards derived from real production failures, not theory. **Designed so a non-technical domain expert can own the workflow the harness drives.**
 - **hoiboy.uk** (2026): live AI-assisted publishing platform. Different domain, same harness. Proof that the pattern travels.
 - **ebay-seller-tool MCP** (2026): I run a small eBay reseller business on the side. Dogfooded MCP harness for that workflow: the reseller operates it daily without reading the code. I am both builder and end-user here, which is the tightest PM feedback loop I have. The external non-technical SME version of this pattern is the next step.
 
 **Featured**
 
-- [SST3-AI-Harness](https://github.com/hoiung/sst3-ai-harness): sanitised public extract of the methodology. The 5-stage workflow lifecycle, the Ralph 3-tier review, the 14 hooks, the automation scripts. The thing itself, not a write-up about it.
+- [SST3-AI-Harness](https://github.com/hoiung/sst3-ai-harness): sanitised public extract of the methodology. The 5-stage workflow lifecycle, the Ralph 3-tier review, the pre-commit hooks, the automation scripts. The thing itself, not a write-up about it.
 - [hoiboy.uk](https://hoiboy.uk): live publishing platform. Second production system on SST3.
 - **HOIBOY AI LTD**: my consulting vehicle. Client case studies (CU Architects, Singer & Steel): [hoiboy.uk/consulting/portfolio](https://hoiboy.uk/consulting/portfolio/).
 - **auto_pb_swing_trader**: production swing trader. Private repo (the trade secret). Interface proof via hoiboy.uk blog posts only.
@@ -50,7 +50,7 @@ Key libraries I've built with:
 
 **What I'm looking for**
 
-The work I enjoy most is building production software 0-to-1. Framing the problem, making the technical calls, shipping in short cycles, then watching it run and tightening it. Build, test, observe, release, repeat. The trading platform proved I can take something from nothing to live and keep it running with real money on it. I want to do that again on a harder problem.
+The work I enjoy most is building production software zero to one (0-to-1). Framing the problem, making the technical calls, shipping in short cycles, then watching it run and tightening it. Build, test, observe, release, repeat. The trading platform proved I can take something from nothing to live and keep it running with real money on it. I want to do that again on a harder problem.
 
 The other half is the same skill pointed at non-technical domains. Finance, legal, accounting, procurement, publishing, retail, customer support, events, and any other industry that can benefit from AI. SME businesses especially, since they don't have an engineering team to lean on. Every department with a subject matter expert can have its own AI harness, shaped around the work they already do. Both halves are the work I want.
 
