@@ -58,5 +58,5 @@ If you're hiring for an AI Product Engineer, AI Enablement Engineer, AI Adoption
 
 Not looking for: Programme Manager, hands-off or exec Head or Director of AI (people management, no build surface), MLOps or Platform Engineer, frontier-lab FDE where the end-customer is another engineering team, pure-coaching roles without engineering build surface.
 
-<a href="https://www.linkedin.com/in/hoiung" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/hoiung" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://hoiboy.uk/tech-ai/" target="_blank"><img src="https://img.shields.io/badge/Tech%20%26%20AI%20Blog-hoiboy.uk-FF6B35?style=flat&logo=hugo&logoColor=white" alt="Tech & AI Blog"></a>
 <!-- iamhoiend -->
