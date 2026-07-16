@@ -1,5 +1,5 @@
 <!-- iamhoi -->
-### Hi, I'm Hoi
+### Hi, I'm Hoi aka Hoiboy
 
 AI Tinkerer. I design and ship production software zero to one (0-to-1): I make the scope and technical calls, AI agents do the implementation. Through HOIBOY AI LTD I also build custom AI harnesses and agentic workflows for domain experts to own and operate.
 
